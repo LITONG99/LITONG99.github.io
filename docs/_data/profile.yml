@@ -1,0 +1,70 @@
+primary_name: Tong Li
+secondary_name: 李桐
+navbar_name: Tong Li
+
+positions:
+  - name: PhD Candidate
+  - name: HKUST
+
+email: tlice@connect.ust.hk
+gscholar: _P4106wAAAAJ
+portrait_url: /assets/portrait.jpg
+
+short_bio: >-
+  <p>
+    Thanks for visiting my page! Please feel free to reach out <a class="contact-envelope" href="mailto:tlice@connect.ust.hk" aria-label="Email Tong Li"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>.
+  </p>
+  <p>
+    I am a year-3 PhD candidate at the Hong Kong University of Science and Technology, co-supervised by <a href="https://researchportal.hkust.edu.hk/en/persons/bo-li/">Prof. Bo Li</a> and <a href="https://personal.hkust-gz.edu.cn/Chenlei/">Prof. Lei Chen</a>.
+  </p>
+  <p>
+    I study <strong>data preparation and management</strong> at the intersection of
+    databases and LLMs. I provide LLM-based solutions to automate structured data preparation and develop methods for LLM to use the data more smartly.
+    My work connects unstructured text, structured databases, and data-driven applications.
+  </p>
+  <p>
+    My recent work focuses on <strong>data profiling and metadata generation</strong>, which serve as important
+    contextual interface for human and agents to use the data better.
+  </p>
+
+experience:
+  - name: Hong Kong University of Science and Technology
+    logo: /assets/images/badges/hkust.jpg
+    position: PhD in Computer Science and Engineering
+    date: Jan 2024 – present
+  - name: Shanghai Jiao Tong University
+    logo: /assets/images/badges/sjtu.png
+    dept: >-
+      DDST Lab · Advisor <a href="https://shenyanyan-sjtu.github.io/">Prof. Yanyan Shen</a>
+    position: MPhil in Computer Science and Technology
+    date: Sep 2021 – Jan 2024
+  - name: Alibaba Group · Tongyi Lab
+    logo: /assets/images/badges/tongyi.png
+    position: Algorithm Engineer Intern
+    date: Apr 2023 – Nov 2023
+  - name: Shanghai Jiao Tong University
+    logo: /assets/images/badges/sjtu.png
+    position: Bachelor’s in Computer Science and Technology
+    date: Sep 2017 – Jun 2021
+
+service:
+  - "Conference reviewer: KDD, AAAI"
+  - "Journal reviewer: TKDE, TKDD"
+
+awards:
+  - name: Outstanding Graduate of Shanghai Jiao Tong University
+    dates:
+      - Mar 2024
+      - Jun 2021
+  - name: Merit Student of Shanghai Jiao Tong University
+    dates:
+      - May 2022
+      - May 2018
+  - name: First Prize, Shanghai College Students’ Computer Application Competition
+    dates:
+      - Jun 2020
+
+additional_experience:
+  - name: Shanghai Jiao Tong University · Office of Undergraduate Academic Affairs
+    position: Administrative Assistant
+    date: 2021–2023

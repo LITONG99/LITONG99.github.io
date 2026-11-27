@@ -1,0 +1,11 @@
+title: Tong Li
+baseurl: ""
+markdown: kramdown
+future: true
+collections:
+  - publications
+  - news
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

@@ -1,0 +1,16 @@
+<section class="my-3 bg-white shadow-sm rounded-xl" aria-labelledby="additional-experience-heading">
+    <h6 id="additional-experience-heading" class="p-3 mb-0 border-bottom border-gray">
+        <i class="fas fa-briefcase" aria-hidden="true"></i> Beyond Research
+    </h6>
+    <ul class="px-3 py-2 mb-0 list-unstyled">
+        {% for item in site.data.profile.additional_experience %}
+        <li class="py-1">
+            <div>{{ item.position }}</div>
+            <div class="small d-flex flex-wrap justify-content-between">
+                <span class="mr-2">{{ item.name }}</span>
+                <em class="text-muted">{{ item.date }}</em>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

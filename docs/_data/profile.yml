@@ -27,29 +27,42 @@ short_bio: >-
     contextual interface for human and agents to use the data better.
   </p>
 
-experience:
+education:
   - name: Hong Kong University of Science and Technology
     logo: /assets/images/badges/hkust.jpg
-    position: PhD in Computer Science and Engineering
+    position: PhD Candidate in Computer Science and Engineering
     date: Jan 2024 – present
   - name: Shanghai Jiao Tong University
     logo: /assets/images/badges/sjtu.png
     dept: >-
-      DDST Lab · Advisor <a href="https://shenyanyan-sjtu.github.io/">Prof. Yanyan Shen</a>
+      DDST Lab · Supervised by <a href="https://shenyanyan-sjtu.github.io/">Prof. Yanyan Shen</a>
     position: MPhil in Computer Science and Technology
     date: Sep 2021 – Jan 2024
+  - name: Shanghai Jiao Tong University
+    logo: /assets/images/badges/sjtu.png
+    position: Bachelor’s Degree in Computer Science and Technology
+    date: Sep 2017 – Jun 2021
+
+experience:
+  - name: Hong Kong University of Science and Technology · Teaching Assistant
+    logo: /assets/images/badges/hkust.jpg
+    position: COMP2711 Discrete Mathematical Tools for Computer Science
+    date: "2024 Fall, 2025 Fall"
   - name: Alibaba Group · Tongyi Lab
     logo: /assets/images/badges/tongyi.png
     position: Algorithm Engineer Intern
     date: Apr 2023 – Nov 2023
-  - name: Shanghai Jiao Tong University
-    logo: /assets/images/badges/sjtu.png
-    position: Bachelor’s in Computer Science and Technology
-    date: Sep 2017 – Jun 2021
 
-service:
-  - "Conference reviewer: KDD, AAAI"
-  - "Journal reviewer: TKDE, TKDD"
+academic_activities:
+  - label: Conference
+    entries:
+      - KDD 2027 Reviewer
+      - AAAI 2026 and 2027 Program Committee
+  - label: Journal
+    entries:
+      - IEEE TKDE 2026 Reviewer
+      - ACM TKDD 2026 Reviewer
+      - IEEE TCSS 2025 Reviewer
 
 awards:
   - name: Outstanding Graduate of Shanghai Jiao Tong University
